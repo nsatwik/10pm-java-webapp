@@ -1,0 +1,17 @@
+body {
+    background-color: #ffcc00; /* Vibrant yellow background */
+    color: #ff0055; /* Vibrant pink text color */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 24px;
+    margin-top: 10px;
+}
